@@ -9,8 +9,8 @@ To create a trustless and transparent platform connecting employers and workers,
 ## Key Features
 - Employers can post and fund jobs with escrow payments
 - Workers can accept and complete jobs
-- Employers release payment only after job completion(madnatory)
-- Ability to (cancel unfunded or incomplete) jobs with refunds
+- Employers release payment only after job completion
+- Ability to cancel unfunded or incomplete jobs with refunds
 - Transparent job status within tracking on-chain
 
 ## Future Scope
@@ -20,6 +20,6 @@ To create a trustless and transparent platform connecting employers and workers,
 - Frontend UI for job browsing and management
 - ERC20 token payments support
 
-## Contract details
+## Contract details of this contract 
 0x8E9326D4b713f41Fb4B70Fb080bA420bbdF6b5D1
 ![alt text](image.png)
