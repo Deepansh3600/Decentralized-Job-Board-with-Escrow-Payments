@@ -9,12 +9,13 @@ To create a trustless and transparent platform connecting employers and workers,
 ## Key Features
 - Employers can post and fund jobs with escrow payments
 - Workers can accept and complete jobs
-- Employers release payment only after job completion
+- Employers release payment only after job completion(compulsory)
 - Ability to cancel unfunded or incomplete jobs with refunds
 - Transparent job status within tracking on-chain
 
 ## Future Scope
-- Separated projects features,future scope for     clarity 
+- Separated projects features
+- Future scope for clearity 
 - Adding dispute resolution mechanisms
 - Integration with reputation and rating system
 - Support for milestone payments
