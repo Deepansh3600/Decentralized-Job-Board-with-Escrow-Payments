@@ -14,7 +14,7 @@ To create a trustless and transparent platform connecting employers and workers,
 - Transparent job status within tracking on-chain
 
 ## Future Scope
-- Separated projects features and future scope
+- Separated projects features and future scope(each user)
 - Adding dispute resolution mechanisms
 - Integration with reputation and rating system
 - Support for milestone payments
