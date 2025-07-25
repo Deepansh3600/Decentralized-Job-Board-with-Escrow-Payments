@@ -4,14 +4,14 @@
 A decentralized job board smart contract where employers can post jobs with escrowed payments, workers can accept jobs, mark them completed, and get paid securely once the employer releases funds.
 
 ## Project Vision
-To create a trustless and transparent  platform connecting employers and workers, ensuring fair payments with escrow,clear job management on blockchain.
+To create a trustless and transparent  platform connecting employers  and workers, ensuring fair payments with escrow,clear job management on blockchain.
 
 ## Key Features
-- Employers can post and fund jobs with escrow payments
-- Workers can accept and  complete jobs
+- Employers can post and fund jobs with escrow payments 
+- Workers  can accept and  complete jobs
 - Employers release payment only after job completion
-- Ability to cancel unfunded or incomplete jobs with refunds
-- Transparent job status within tracking on-chain
+- Ability to  cancel unfunded or incomplete jobs with refunds
+- Transparent  job status within tracking on-chain
 
 ## Future Scope
 - Separated projects features and future scope
