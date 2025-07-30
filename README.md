@@ -1,7 +1,7 @@
 # Decentralized Job Board with Escrow Payments
 
 ## Project Description
-A decentralized job board smart contract where employers can post jobs with escrowed payments, workers can accept jobs, mark them completed, and also get paid securely once the employer's releases funds.
+A decentralized job board smart contract where employers can post jobs with escrowed payments, workers can accept jobs, mark them completed get paid securely once the employer's releases funds.
 
 ## Project Vision
 To create a trustless and transparent platform connecting employers and workers, ensuring fair payments with escrow,clear job management on blockchain.
