@@ -11,7 +11,7 @@ To create a trustless and transparent platform connecting employers and workers,
 - Workers can accept and complete jobs. 
 - Employers release payment after job  completion.
 - Ability to cancel unfunded or incomplete jobs with refunds.  
-- Transparent job status within its tracking on-chain. 
+- Transparent job status within its tracking on-chain.
 
 ## Future Scope
 - Separated projects features and future scope
