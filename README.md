@@ -19,7 +19,7 @@ To create a trustless and transparent platform connecting employers and workers,
 - Integration with reputation and rating system
 - Support for milestone payments. 
 - Frontend UI for job browsing and management
-- ERC20 token payments support. 
+- ERC20 token payments support.
 
 ## Contract details of this contract 
 0x8E9326D4b713f41Fb4B70Fb080bA420bbdF6b5D1
