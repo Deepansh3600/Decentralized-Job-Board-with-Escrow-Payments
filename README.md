@@ -6,7 +6,7 @@ A decentralized job board smart contract where employers can post jobs with escr
 ## Project Vision
 To create a trustless and transparent platform connecting employers and workers, ensuring fair payments with escrow,clear job  management on blockchain. 
 
-## Key Features 
+## Key Features
 - Employers can post and fund jobs with escrow payments.
 - Workers can accept and complete jobs. 
 - Employers release payment after job  completion.
